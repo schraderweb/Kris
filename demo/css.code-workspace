@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../documentation"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../js"
+		}
+	]
+}
